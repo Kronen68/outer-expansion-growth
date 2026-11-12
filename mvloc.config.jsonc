@@ -107,10 +107,7 @@
 
     "packaging": {
         "fullOriginal": [
-		    //assets1
-            "https://github.com/ftl-mv-translation/outer-expansion-growth/raw/outer-expansion-growth-english/FTL-Outer-Expansion-7.1.8_-_Assets.zip",
-			//data
-			"https://github.com/ftl-mv-translation/outer-expansion-growth/raw/outer-expansion-growth-english/FTL-Outer-Expansion-7.1.10_-_Data.zip",
+			"https://github.com/ftl-mv-translation/outer-expansion-growth/raw/outer-expansion-growth-english/Outer-Expansion_Acidic-Growth.zip",
         ],
         "prefix": "Outer-Expansion-Growth",
         "version": "1.2"
